@@ -1,3 +1,5 @@
+> **Archived 2026-11-09.** Kept for history; fork no longer used; structure files are written in STL ([`structure-template-language/`](https://github.com/apparel-coalition/structures/tree/master/structure-template-language)).
+
 <img src="https://github.com/dhall-lang/dhall-lang/blob/master/img/dhall-logo.svg" width="600" alt="Dhall Logo">
 
 [![crates.io][cratesio-badge]][cratesio-url]
